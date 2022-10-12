@@ -3,7 +3,8 @@ Repository for all code and website assests
 
 How to see what this would look like as a website:
 1. Download all of the files and folders
-2. Open index.html in chrome or whatever internet browser you use
+2. Unzip the folder
+3. Open index.html in chrome or whatever internet browser you use
 
 How I made this:
 I designed this using webflow and then built it and scraped the html because the site would not let me add in the games or modify the html directly. A lot of the text and images for the website are just place holders and should be replaced. 
